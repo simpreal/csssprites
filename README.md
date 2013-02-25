@@ -7,5 +7,4 @@ You can see a demo on this [link](http://simpreal.org.ua/csssprites/)
 
 Tested only in Firefox and Chrome
 
-Overview:
-[link](http://simpreal.org.ua/csssprites/online-css-spite-generator.html)
+[Overview](http://simpreal.org.ua/csssprites/online-css-spite-generator.html)
